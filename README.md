@@ -39,14 +39,10 @@ Database: Mongo DB
 <br />
 <h2>Create Group Chat</h2>
 
-![Group_Chat](https://user-images.githubusercontent.com/88818731/179344275-70dbec2c-8e81-4a4a-aad8-90fc9bdb8945.png)
+![Group_Chat](Screenshots/GroupChat.png)
 
 <br />
-<h2>Notification</h2>
 
-![Notification](https://user-images.githubusercontent.com/88818731/179344281-57b616e9-90b3-4a6d-80f6-b0e474c36825.png)
-
-<br />
 <h2>User Profile</h2>
 
-![Profile_Modal](https://user-images.githubusercontent.com/88818731/179344315-bd0d39c5-78ec-41d4-8327-2d7d18079898.png)
+![Profile_Modal](Screenshots/UserProfile.png)
