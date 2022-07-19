@@ -19,22 +19,22 @@ Database: Mongo DB
 
 <h3>Signup</h3>
 
-![Signup](https://user-images.githubusercontent.com/88818731/179344155-4087c7f3-1d67-44e0-958d-407e8f480a17.png)
+![Signup](Screenshots/Signup.png)
 
 <br />
 <h2>Real Time Chatting with Typing indicators</h2>
 
-![Real_Time_Chatting_with_Typing_Indicators](https://user-images.githubusercontent.com/88818731/179344210-4e1519f6-54c8-4ebb-a045-81490ddc4d65.png)
+![Real_Time_Chatting_with_Typing_Indicators](Screenshots/RealTimeChat.png)
 
 <br />
 <h2>One on One Chat</h2>
 
-![One on One Chat](https://user-images.githubusercontent.com/88818731/179344231-737b7cdb-8c8d-48af-9511-cc3afcc7591c.png)
+![One on One Chat](Screenshots/OneOnOneChat.png)
 
 <br />
 <h2>Search Users</h2>
 
-![Search_Users](https://user-images.githubusercontent.com/88818731/179344247-df7ed06a-b65f-4cf3-a71c-b67ac493fcbd.png)
+![Search_Users](Screenshots/SearchUser.png)
 
 <br />
 <h2>Create Group Chat</h2>
